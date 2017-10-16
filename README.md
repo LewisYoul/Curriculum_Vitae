@@ -1,6 +1,6 @@
-## Your Name
+## Lewis Youl
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Current student at Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
 
 ## Skills
 
