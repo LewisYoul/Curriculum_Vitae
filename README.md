@@ -1,6 +1,6 @@
 # Lewis Youl
 
-[Interests]#interests
+[Skills](#skills) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 ***
 
@@ -8,7 +8,7 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 ***
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Attention to Detail
 
@@ -28,7 +28,7 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 ***
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (23rd October 2017 - 19th January 2018)
 
@@ -61,7 +61,7 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 ***
 
-## Work Experience
+## <a name="experience">Work Experience</a>
 
 **The Francis Crick Institute** (March 2014 - September 2017)    
 *Laboratory Research Scientist*
@@ -82,4 +82,4 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 ***
 
-## Contact
+## <a name="contact">Contact</a>
