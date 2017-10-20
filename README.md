@@ -1,12 +1,20 @@
 # Lewis Youl
 
+***
+
 Current student at Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
+
+***
 
 ## Skills
 
 #### Attention to Detail
 
 An absolute requirement in my four years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically pipetting extremely small volumes on a daily basis, the microscopic manipulation of mouse embryos and surgical transplant of these embryos; resulting in a high number of successful pregnancies.
+
+#### Passion for Learning
+
+I love learning, it is one of the reasons I initially became a biologist, an innate curiosity for the natural world. You can never know it all, or enough. This is a challenge I enjoy tackling on a daily basis and it translates well into a development environment. There are so many languages, platforms and that there is always something new to progress your creations.
 
 #### Proactive
 
@@ -16,14 +24,7 @@ Consistently looking for projects to work on and ways to improve, will actively 
 
 From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+***
 
 ## Education
 
@@ -50,11 +51,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade achieved: 2.1
 - Animal biology degree with emphasis on animal physiology, behaviour and anthropomorphic impact.
 
-#### Any other qualifications
+#### Other Qualifications
 
-## Experience
+- **Institute of Animal Technology** - *Personal License* - Modules 1 - 4
 
-**The Francis Crick Institute** (March 2014 to September 2017)    
-*Laboratory Research Scientist*  
-**JD Wetherspoon** (start_date to end_date)   
-*Your job title*  
+***
+
+## Work Experience
+
+**The Francis Crick Institute** (March 2014 - September 2017)    
+*Laboratory Research Scientist*
+
+**Belmont Children's Farm** (April 2013 - December 2013)   
+*Farm Supervisor*  
+
+**JD Wetherspoon** (November 2011 - April 2013)   
+*Bar Associate*  
+
+***
+
+## Interests
+
+- Tennis fanatic.
+- Music (previously played in bands around London and Portsmouth).
+- Coffee shops (a new development).
+
+***
+
+## Contact
