@@ -83,3 +83,5 @@ From working in bars, managing volunteers on a farm and being part of a small la
 ***
 
 ## <a name="contact">Contact</a>
+
+[GitHub](https://github.com/LewisYoul) | [LinkedIn](https://www.linkedin.com/in/lewisyoul/) | [Twitter](https://twitter.com/lewisyoul) | [Personal Portfolio](https://lewisyoul.github.io) 
