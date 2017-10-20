@@ -46,14 +46,14 @@ From working in bars, managing volunteers on a farm and being part of a small la
 - MSc in Wild Animal Biology.
 - Focussed on the epidemiology of wildlife disease.
 - Completed tasks using R, ArcGIS and qPCR.
-- Individual research project.
+- Research thesis on the global impact of a fungal pathogen of amphibians.
 
 #### University of Wales - Aberystwyth (September 2007 - July 2010)
 
 - BSc in Zoology
 - Grade achieved: 2.1
 - Animal biology degree with emphasis on animal physiology, behaviour and anthropomorphic impact.
-- Research thesis on the global impact of a fungal pathogen of amphibians.
+- Individual research project on squirrel foraging.
 
 #### Other Qualifications
 
@@ -84,4 +84,4 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 ## <a name="contact">Contact</a>
 
-[GitHub](https://github.com/LewisYoul) | [LinkedIn](https://www.linkedin.com/in/lewisyoul/) | [Twitter](https://twitter.com/lewisyoul) | [Personal Portfolio](https://lewisyoul.github.io) 
+[GitHub](https://github.com/LewisYoul) | [LinkedIn](https://www.linkedin.com/in/lewisyoul/) | [Twitter](https://twitter.com/lewisyoul) | [Personal Portfolio](https://lewisyoul.github.io)
