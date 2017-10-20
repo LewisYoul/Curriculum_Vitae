@@ -4,13 +4,13 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 ## Skills
 
-#### This Skill
+#### Attention to Detail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+An absolute requirement in my four years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically pipetting extremely small volumes on a daily basis, the microscopic manipulation of mouse embryos and surgical transplant of these embryos; resulting in a high number of successful pregnancies.
 
-- Experience
-- Achievements
-- Evidence
+#### Proactive
+
+Consistently looking for projects to work on and ways to improve, will actively contact others to collaborate and increase my knowledge. In previous employment at The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required a significant amount of self-study and collaboration with resident bioinformaticians. 
 
 #### Another Skill
 
