@@ -1,5 +1,7 @@
 # Lewis Youl
 
+[Interests]#interests
+
 ***
 
 Current student at Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
@@ -43,17 +45,19 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 - MSc in Wild Animal Biology.
 - Focussed on the epidemiology of wildlife disease.
-- Completed projects using R, ArcGIS and qPCR.
+- Completed tasks using R, ArcGIS and qPCR.
+- Individual research project.
 
 #### University of Wales - Aberystwyth (September 2007 - July 2010)
 
 - BSc in Zoology
 - Grade achieved: 2.1
 - Animal biology degree with emphasis on animal physiology, behaviour and anthropomorphic impact.
+- Research thesis on the global impact of a fungal pathogen of amphibians.
 
 #### Other Qualifications
 
-- **Institute of Animal Technology** - *Personal License* - Modules 1 - 4
+- **Institute of Animal Technology** - *Personal License* - Modules 1 - 4: Allowing the practice of regulated procedures.
 
 ***
 
@@ -70,11 +74,11 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 ***
 
-## Interests
+## <a name="interests">Interests</a>
 
 - Tennis fanatic.
 - Music (previously played in bands around London and Portsmouth).
-- Coffee shops (a new development).
+- Coffee shops (a new development!).
 
 ***
 
