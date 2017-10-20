@@ -1,4 +1,4 @@
-## Lewis Youl
+# Lewis Youl
 
 Current student at Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
 
@@ -10,7 +10,11 @@ An absolute requirement in my four years as a Labortory Scientist to ensure accu
 
 #### Proactive
 
-Consistently looking for projects to work on and ways to improve, will actively contact others to collaborate and increase my knowledge. In previous employment at The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required a significant amount of self-study and collaboration with resident bioinformaticians. 
+Consistently looking for projects to work on and ways to improve, will actively contact others to collaborate and increase my knowledge. In previous employment at The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required a significant amount of self-study and collaboration with resident bioinformaticians.
+
+#### Team Player
+
+From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
 
 #### Another Skill
 
@@ -23,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (23rd October 2017 - 19th January 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +38,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Royal Veterinary College (September 2011 - September 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc in Wild Animal Biology.
+- Focussed on the epidemiology of wildlife disease.
+- Completed projects using R, ArcGIS and qPCR.
+
+#### University of Wales - Aberystwyth (September 2007 - July 2010)
+
+- BSc in Zoology
+- Grade achieved: 2.1
+- Animal biology degree with emphasis on animal physiology, behaviour and anthropomorphic impact.
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
+**The Francis Crick Institute** (March 2014 to September 2017)    
+*Laboratory Research Scientist*  
+**JD Wetherspoon** (start_date to end_date)   
 *Your job title*  
