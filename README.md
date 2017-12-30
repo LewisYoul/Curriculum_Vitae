@@ -10,6 +10,8 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 ## <a name="skills">Skills</a>
 
+split into personal and technical skills
+
 #### Attention to Detail
 
 An absolute requirement in my four years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically pipetting extremely small volumes on a daily basis, the microscopic manipulation of mouse embryos and surgical transplant of these embryos; resulting in a high number of successful pregnancies.
@@ -77,6 +79,8 @@ From working in bars, managing volunteers on a farm and being part of a small la
 ***
 
 ## <a name="interests">Interests</a>
+
+add a personal interest to tech
 
 - Tennis fanatic.
 - Music (previously played in bands around London and Portsmouth).
