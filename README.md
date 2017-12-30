@@ -32,6 +32,12 @@ From working in bars, managing volunteers on a farm and being part of a small la
 
 ## <a name="projects">Projects</a>
 
+Project | Description | Technologies | Links | Testing Technologies
+---| --- | --- | --- | --- |
+Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgres w/ DataMapper | ![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)  ![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | Rspec + Capybara
+
+***
+
 ## <a name="experience">Work Experience</a>
 
 **The Francis Crick Institute** (March 2014 - September 2017)    
