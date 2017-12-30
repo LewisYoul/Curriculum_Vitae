@@ -35,6 +35,8 @@ From working in bars, managing volunteers on a farm and being part of a small la
 Project | Description | Technologies | Links | Testing Technologies
 ---| --- | --- | --- | --- |
 Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgres w/ DataMapper | [![heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://protected-sierra-12031.herokuapp.com/posts) [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/Chitter) | Rspec + Capybara
+Transgression Battle | A Pokemon style battle game where players can choose their characters and duel them! | React JS, Ruby on Rails, Postgres w/ ActiveRecord | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/pokebattle) [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/tabrza/pokebattle-react) | Jest + Enzyme
+MakersBnB | An imitation of AirBnB built as part of a week long group project | Ruby, Sinatra, JavaScript/JQuery, Postgres w/ DataMapper | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/MakersBnB) | RSpec, Capybara & Poltergeist
 
 ***
 
