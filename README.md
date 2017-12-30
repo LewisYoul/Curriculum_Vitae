@@ -57,9 +57,9 @@ MakersBnB | An imitation of AirBnB built as part of a week long group project | 
 
 #### Makers Academy (23rd October 2017 - 19th January 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
