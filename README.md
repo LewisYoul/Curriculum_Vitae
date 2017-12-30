@@ -60,7 +60,6 @@ MakersBnB | An imitation of AirBnB built as part of a week long group project | 
 - Curious and passionate about code.
 - Fast, independent learner
 - Great collaborator
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
