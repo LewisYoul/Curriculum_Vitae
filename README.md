@@ -1,6 +1,6 @@
 # Lewis Youl
 
-[Skills](#skills) | [Education](#education) | [Work Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Skills](#skills) | [Projects](#projects) | [Work Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 ***
 
@@ -25,6 +25,21 @@ Consistently looking for projects to work on and ways to improve, will actively 
 #### Team Player
 
 From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
+
+***
+
+## <a name="projects">Projects</a>
+
+## <a name="experience">Work Experience</a>
+
+**The Francis Crick Institute** (March 2014 - September 2017)    
+*Laboratory Research Scientist*
+
+**Belmont Children's Farm** (April 2013 - December 2013)   
+*Farm Supervisor*  
+
+**JD Wetherspoon** (November 2011 - April 2013)   
+*Bar Associate*  
 
 ***
 
@@ -58,19 +73,6 @@ From working in bars, managing volunteers on a farm and being part of a small la
 #### Other Qualifications
 
 - **Institute of Animal Technology** - *Personal License* - Modules 1 - 4: Allowing the practice of regulated procedures.
-
-***
-
-## <a name="experience">Work Experience</a>
-
-**The Francis Crick Institute** (March 2014 - September 2017)    
-*Laboratory Research Scientist*
-
-**Belmont Children's Farm** (April 2013 - December 2013)   
-*Farm Supervisor*  
-
-**JD Wetherspoon** (November 2011 - April 2013)   
-*Bar Associate*  
 
 ***
 
