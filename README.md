@@ -10,7 +10,9 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 ## <a name="skills">Skills</a>
 
-split into personal and technical skills
+### Technical
+
+* **Best Practices -** I strongly believe in the benefits of using Robert C. Martin's S.O.L.I.D principals when designing and writing code. Clean, reproducible and easily extendable code is what strive towards.
 
 #### Attention to Detail
 
