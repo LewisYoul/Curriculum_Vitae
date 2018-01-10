@@ -14,6 +14,8 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 * **Best Practices -** I strongly believe in the benefits of using Robert C. Martin's S.O.L.I.D principals when designing and writing code. Clean, reproducible and easily extendable code is what strive towards.
 
+* **Quick Study -** An ability to learn new technologies quickly. From my time at Makers Academy I have developed a set of skills that allow me to pick up new languages and processes quickly, meaning I can hit the ground running.
+
 #### Attention to Detail
 
 An absolute requirement in my four years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically pipetting extremely small volumes on a daily basis, the microscopic manipulation of mouse embryos and surgical transplant of these embryos; resulting in a high number of successful pregnancies.
