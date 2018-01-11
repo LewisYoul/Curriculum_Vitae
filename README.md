@@ -24,17 +24,11 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 * **Attention to Detail -** An absolute requirement in my four years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically the microscopic manipulation of mouse embryos.
 
-#### Passion for Learning
+* **Passion for Learning -** I love learning, it is one of the reasons I initially became a biologist, and the reason I chose to transition to web development. You can never know it all, or enough.
 
-I love learning, it is one of the reasons I initially became a biologist, an innate curiosity for the natural world. You can never know it all, or enough. This is a challenge I enjoy tackling on a daily basis and it translates well into a development environment. There are so many languages, platforms and that there is always something new to progress your creations.
+* **Proactive -** During employment at The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required a significant amount of self-study and collaboration with resident bioinformaticians.
 
-#### Proactive
-
-Consistently looking for projects to work on and ways to improve, will actively contact others to collaborate and increase my knowledge. In previous employment at The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required a significant amount of self-study and collaboration with resident bioinformaticians.
-
-#### Team Player
-
-From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
+* **Team Player -** From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
 
 ***
 
