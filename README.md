@@ -22,7 +22,7 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 #### Transferable
 
-* **Attention to Detail -** An absolute requirement in my four years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically the microscopic manipulation of mouse embryos.
+* **Attention to Detail -** An absolute requirement in my three years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically the microscopic manipulation of mouse embryos.
 
 * **Passion for Learning -** I love learning, it is one of the reasons I initially became a biologist, and the reason I chose to transition to web development. You can never know it all, or enough.
 
