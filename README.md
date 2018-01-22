@@ -26,7 +26,7 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 * **Passion for Learning -** I love learning, it is one of the reasons I initially became a biologist, and the reason I chose to transition to web development. You can never know it all, or enough.
 
-* **Proactive -** During employment at The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required a significant amount of self-study and collaboration with resident bioinformaticians.
+* **Proactive -** At The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required significant self-study and collaboration with resident bioinformaticians.
 
 * **Team Player -** From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
 
