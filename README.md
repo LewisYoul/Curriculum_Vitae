@@ -89,11 +89,10 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 
 ## <a name="interests">Interests</a>
 
-add a personal interest to tech
-
-- Tennis fanatic.
-- Music (previously played in bands around London and Portsmouth).
-- Coffee shops (a new development!).
+- Tennis fanatic
+- Music (previously played in bands around London and Portsmouth)
+- Developing my personal website with React JS
+- Investigating new technologies
 
 ***
 
