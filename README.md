@@ -4,7 +4,7 @@
 
 ***
 
-Current student at Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
+Recent graduate of Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
 
 ***
 
