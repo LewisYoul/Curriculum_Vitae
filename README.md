@@ -36,9 +36,10 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 Project | Description | Technologies | Links | Testing Technologies
 ---| --- | --- | --- | --- |
-Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgres w/ DataMapper | [![heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://protected-sierra-12031.herokuapp.com/posts) [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/Chitter) | Rspec + Capybara
+MemoMap | Travel journal web app with the main interface being a map. Record places you've visited and upload images/memories. | React JS, Node JS, Express, MongoDB | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/tmerrr/map-app) | Enzyme, Mocha, Chai & Sinon
 Transgression Battle | A Pokemon style battle game where players can choose their characters and duel them! | React JS, Ruby on Rails, Postgres w/ ActiveRecord | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/pokebattle) [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/tabrza/pokebattle-react) | Jest + Enzyme
 MakersBnB | An imitation of AirBnB built as part of a week long group project | Ruby, Sinatra, JavaScript/JQuery, Postgres w/ DataMapper | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/MakersBnB) | RSpec, Capybara & Poltergeist
+Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgres w/ DataMapper | [![heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://protected-sierra-12031.herokuapp.com/posts) [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)](https://github.com/LewisYoul/Chitter) | Rspec + Capybara
 
 ***
 
