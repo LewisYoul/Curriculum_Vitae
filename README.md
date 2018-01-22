@@ -60,13 +60,12 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 
 #### Makers Academy (23rd October 2017 - 19th January 2018)
 
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Fast, Efficient and independent learner
+- Effective collaborator on group projects
+- Implementation of S.O.L.I.D principles
+- Object Oriented Programming & Test Driven Development
+- Agile methodlogies and XP values
+- Ruby, Rails, JavaScript, React JS, PostgreSQL & MongoDB
 
 #### Royal Veterinary College (September 2011 - September 2012)
 
