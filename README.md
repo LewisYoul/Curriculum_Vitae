@@ -18,7 +18,7 @@ Current student at Makers Academy, one of the worlds most selective web developm
 
 * **Quick Study -** An ability to learn new technologies quickly. From my time at Makers Academy I have developed a set of skills that allow me to pick up new languages and processes quickly, meaning I can hit the ground running.
 
-* **Technologies -** Documented experience working with a variety of languages an stacks. Principally Ruby, Rails, PostgreSQL, React JS, Node JS and React. Please see my Projects section for examples.
+* **Technologies -** Documented experience working with a variety of languages and stacks. Principally Ruby, Rails, PostgreSQL, React JS, Node JS and MongoDB. Please see my Projects section for examples.
 
 #### Transferable
 
