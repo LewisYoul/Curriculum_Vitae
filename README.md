@@ -14,9 +14,10 @@ Recent graduate of Makers Academy, one of the worlds most selective web developm
 
 * **Test Driven Development -** Passionate about TDD, I have seen its benefits first hand and the issues that result from not using it.
 
-* **Best Practices -** I strongly believe in the benefits of using Robert C. Martin's S.O.L.I.D principals when designing and writing code. Clean, reproducible and easily extendable code is what strive towards.
 
 * **Quick Study -** An ability to learn new technologies quickly. From my time at Makers Academy I have developed a set of skills that allow me to pick up new languages and processes quickly, meaning I can hit the ground running.
+
+* **Best Practices -** I strongly believe in the benefits of using Robert C. Martin's S.O.L.I.D principals when designing and writing code. Clean, reproducible and easily extendable code is what I strive towards.
 
 * **Technologies -** Documented experience working with a variety of languages and stacks. Principally Ruby, Rails, PostgreSQL, React JS, Node JS and MongoDB. Please see my Projects section for examples.
 
