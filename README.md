@@ -4,7 +4,7 @@
 
 ***
 
-Recent graduate of Makers Academy, one of the worlds most selective web development bootcamps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web technologies.
+Recent graduate of Makers Academy, one of the worlds most selective web development boot-camps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web applications and technologies.
 
 ***
 
@@ -22,11 +22,11 @@ Recent graduate of Makers Academy, one of the worlds most selective web developm
 
 #### Transferable
 
-* **Attention to Detail -** An absolute requirement in my three years as a Labortory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically the microscopic manipulation of mouse embryos.
+* **Attention to Detail -** An absolute requirement in my three years as a Laboratory Scientist to ensure accurate, reliable results and successful procedures that can be utilised by others. Specifically the microscopic manipulation of mouse embryos.
 
 * **Passion for Learning -** I love learning, it is one of the reasons I initially became a biologist, and the reason I chose to transition to web development. You can never know it all, or enough.
 
-* **Proactive -** At The Francis Crick Institute I concieved, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required significant self-study and collaboration with resident bioinformaticians.
+* **Proactive -** At The Francis Crick Institute I conceived, developed and implemented a service for tracking the microbial gut populations of laboratory mice through gene sequencing. This required significant self-study and collaboration with resident bioinformaticians.
 
 * **Team Player -** From working in bars, managing volunteers on a farm and being part of a small laboratory service department I appreciate the importance of, and enjoy working as part of a team. Efficient teamwork increases efficiency and quality of output, it's also fun!
 
@@ -52,9 +52,6 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 **Belmont Children's Farm** (April 2013 - December 2013)   
 *Farm Supervisor*  
 
-**JD Wetherspoon** (November 2011 - April 2013)   
-*Bar Associate*  
-
 ***
 
 ## <a name="education">Education</a>
@@ -65,13 +62,13 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 - Effective collaborator
 - Implementation of S.O.L.I.D principles
 - Object Oriented Programming & Test Driven Development
-- Agile methodlogies and XP values
+- Agile methodologies and XP values
 - Ruby, Rails, JavaScript, React JS, Node JS, PostgreSQL & MongoDB
 
 #### Royal Veterinary College (September 2011 - September 2012)
 
 - MSc in Wild Animal Biology.
-- Focussed on the epidemiology of wildlife disease.
+- Focused on the epidemiology of wildlife disease.
 - Completed tasks using R, ArcGIS and qPCR.
 - Research thesis on the global impact of a fungal pathogen of amphibians.
 
