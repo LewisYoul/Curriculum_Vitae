@@ -50,7 +50,7 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 **The Francis Crick Institute** (March 2014 - September 2017)    
 *Laboratory Research Scientist*
 - Conceived and implemented a service for the analysis of gut microbe populations through the use of qPCR and high-throughput sequencing
-- Microscopic manipulation and sugrical transfer of mouse embryos
+- Microscopic manipulation and surgical transfer of mouse embryos
 
 **Belmont Children's Farm** (April 2013 - December 2013)   
 *Farm Supervisor*  
