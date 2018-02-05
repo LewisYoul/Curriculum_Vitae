@@ -99,7 +99,7 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 
 ## <a name="contact">Contact</a>
 
-**Telepohone -** 07780 869533
-**Email -** lewisyoul@gmail.com
+**Telepohone :** 07780 869533 - 
+**Email :** lewisyoul@gmail.com
 
 [GitHub](https://github.com/LewisYoul) | [LinkedIn](https://www.linkedin.com/in/lewisyoul/) | [Twitter](https://twitter.com/lewisyoul) | [Personal Portfolio](https://lewisyoul.github.io)
