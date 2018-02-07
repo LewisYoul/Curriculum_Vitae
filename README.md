@@ -4,7 +4,7 @@
 
 ***
 
-Recent graduate of Makers Academy, one of the worlds most selective web development boot-camps. I bring the analytical thinking and attention to detail required during my career in science into the code that I write. I am looking to immerse myself in the development community, contributing to the continued progression and development of web applications and technologies.
+Recent graduate of Makers Academy, one of Europe’s most selective web development boot-camps, currently seeking a meaningful full-stack developer role. Prior to the completion of this course I gained an analytical mindset and a high attention to detail through a career in science; skills that I now bring to the code that I write. I am looking to immerse myself in the development community and continue to learn, develop and contribute.
 
 ***
 
@@ -47,7 +47,7 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 
 ## <a name="experience">Work Experience</a>
 
-**The Francis Crick Institute** (March 2014 - September 2017)    
+**The Francis Crick Institute** (January 2014 - September 2017)    
 *Laboratory Research Scientist*
 - Conceived and implemented a service for the analysis of gut microbe populations through the use of qPCR and high-throughput sequencing
 - Microscopic manipulation and surgical transfer of mouse embryos
@@ -90,10 +90,10 @@ Chitter | A lightweight twitter clone built in a weekend | Ruby, Sinatra, Postgr
 
 ## <a name="interests">Interests</a>
 
-- Tennis fanatic
+- Investigating new technologies (currently building a chrome extension)
+- Developing my personal website
 - Music (previously played in bands around London and Portsmouth)
-- Developing my personal website with React JS
-- Investigating new technologies
+- Tennis fanatic
 
 ***
 
